@@ -10,8 +10,8 @@ build a ToDo application with authentication using Django Web Framework 
 ## Installation
 
 ```bash
-pip install django
-pip install psycopg2
+pip3 install django
+pip3 install psycopg2
 pip3 install mysql
 python manage.py runserver
 ```
