@@ -1,6 +1,8 @@
 # To-Do assignment1
 ## Title
-To-Do with django
+build a ToDo application with authentication using Django Web Framework 
+
+
 
 
 
